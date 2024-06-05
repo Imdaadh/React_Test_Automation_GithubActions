@@ -67,6 +67,9 @@ jobs:
       run: |
           git config --global user.email imdaadj211@gmail.com
           git config --global user.name Imdaad
+    - name: Configure GitHub Credentials
+      run: | 
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
     - name: Deploy to GitHub Pages
       run: npm run deploy
