@@ -7,7 +7,7 @@
 
   <div>
      <a href="https://www.linkedin.com/in/mohamed-imdaad-8a725a217/" target="_blank">
-    <img src=https://content.linkedin.com/content/dam/brand/site/img/logo/logo-hero.png" alt="tailwindcss" />
+    <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/logo-hero.png" alt="tailwindcss" />
   </div>
 
   <h3 align="center">React Project Turn Into a CI/CD Integrated With Cypress Automation Tests</h3>
