@@ -1,13 +1,13 @@
 <div align="center">
   <br />
     <a href="https://imdaadh.github.io/React_Test_Automation_GithubActions/" target="_blank">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.activestate.com%2Fblog%2Foptimizing-ci-cd-pipelines-in-github-actions%2F&psig=AOvVaw3fgk25BNZ96uGZrKtDa63B&ust=1717696087345000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNj-7tqCxYYDFQAAAAAdAAAAABAE" alt="Project Banner">
+      <img src="https://github.blog/wp-content/uploads/2022/01/build-ci-cd-pipeline-actions_banner.png?resize=1200%2C630" alt="Project Banner">
     </a>
   <br />
 
   <div>
      <a href="https://www.linkedin.com/in/mohamed-imdaad-8a725a217/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrand.linkedin.com%2Fcontent%2Fbrand%2Fglobal%2Fen_us%2Findex%2Fvisual-identity%2Flogo&psig=AOvVaw06p3mxOJrjSqmzbEtuFBYf&ust=1717696312169000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiN18WDxYYDFQAAAAAdAAAAABAE" alt="tailwindcss" />
+    <img src=https://content.linkedin.com/content/dam/brand/site/img/logo/logo-hero.png" alt="tailwindcss" />
   </div>
 
   <h3 align="center">React Project Turn Into a CI/CD Integrated With Cypress Automation Tests</h3>
