@@ -1,6 +1,6 @@
 describe('Title Validation', () => {
 
-    beforeEach(()=>{cy.visit('http://localhost:5173/')}) 
+    beforeEach(()=>{cy.visit('https://imdaadh.github.io/React_Test_Automation_GithubActions/')}) 
 
     it('Go to currect url', () => {
       cy.visit('http://localhost:5173/')

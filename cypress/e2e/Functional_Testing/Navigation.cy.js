@@ -1,7 +1,7 @@
 describe('Navigation Validation', () => {
 
     it('Go to currect url', () => {
-      cy.visit('http://localhost:5173/')
+      cy.visit('https://imdaadh.github.io/React_Test_Automation_GithubActions//')
   
     })
   
