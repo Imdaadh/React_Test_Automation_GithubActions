@@ -16,7 +16,7 @@ const Hero = () => {
       <div className='relative xl:w-2/5 flex flex-col justify-center items-start w-full  max-xl:padding-x pt-28'>
       <p className='text-xl font-montserrat text-coral-red'>
           Welcome to Imdaad's CI/CD Integrated App with 
-          <span className='text-coral-red inline-block mt-3'> Cypress Automation Iresh</span>
+          <span className='text-coral-red inline-block mt-3'> Cypress Automation</span>
         </p>
 
         <p className='text-xl font-montserrat text-coral-red'>
