@@ -7,10 +7,12 @@ describe('Title Validation', () => {
   
     })
   
+    //negative testcase but should pass
     it('verify negative-positive1', () => {
       cy.title().should('not.eq',"Nike123")
     })
   
+    //positive test case
     it('verify negative-positive2', () => {
       cy.title().should('eq',"Nike")
     })
